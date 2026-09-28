@@ -22,8 +22,6 @@ body {
   overflow-x: hidden;
 }
 
-/* background texture removed per feedback — flat background kept clean */
-
 .card {
   position: relative;
   z-index: 1;
