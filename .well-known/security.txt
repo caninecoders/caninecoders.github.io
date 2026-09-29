@@ -1,4 +1,7 @@
 Contact: mailto:hello@caninecoders.co.uk
 Expires: 2027-11-01T00:00:00Z
+Preferred-Languages: en-GB
 Canonical: https://caninecoders.co.uk/.well-known/security.txt
 Canonical: https://caninecoders.com/.well-known/security.txt
+Canonical: https://www.caninecoders.co.uk/.well-known/security.txt
+Canonical: https://www.caninecoders.com/.well-known/security.txt
